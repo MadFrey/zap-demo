@@ -1,0 +1,2 @@
+2022-07-13T20:16:32.694+0800	ERROR	zap2/1.go:73	Error fetching URL www.google.com : Error = Get "www.google.com": unsupported protocol scheme ""
+2022-07-13T20:16:53.780+0800	ERROR	zap2/1.go:73	Error fetching URL http://www.google.com : Error = Get "http://www.google.com": dial tcp 199.59.149.206:80: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
